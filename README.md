@@ -15,6 +15,9 @@ monitoring and actionable feedback for users
 
 ![image](https://github.com/user-attachments/assets/848a9912-cc3d-434c-b694-68c0cca13c5f)
 
+# Work flow
+![image](https://github.com/user-attachments/assets/378f46d3-942e-4927-8bfb-40d98259526a)
+
 # Components Required
  - nodemcu
  - Arduino
